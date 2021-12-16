@@ -1,0 +1,9 @@
+{
+	"name": "adfpipelinefromtemplate",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7f6c7c6e-6bab-4827-a182-bf40fc8c7792",
+		"tenantId": "c37ef212-d4a3-44b6-92df-0d1dff85604f"
+	}
+}
